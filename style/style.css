@@ -1,0 +1,23 @@
+html {
+  background-color: #142246;
+}
+body {
+  background-color: #142246;
+}
+div {
+  background-color: #142246;
+}
+.input-field {
+  background-color: #142246;
+  border-color: orange;
+  color: white;
+  padding: 5px;
+  margin-bottom: 10px;
+  display: list-item;
+  margin-top: 10px;
+  width: 100%;
+  text-align: center;
+}
+.submit {
+  background-color: orange;
+}
